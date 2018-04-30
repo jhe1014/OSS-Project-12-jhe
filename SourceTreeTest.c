@@ -9,5 +9,9 @@ int main() {
   for (int i=0; i<10; i++) {
     printf("Test 브랜치\n");
   }
+
+  printf("Test branch\n");
+  printf("This is Test branch");
+  
   return 0;
 }
