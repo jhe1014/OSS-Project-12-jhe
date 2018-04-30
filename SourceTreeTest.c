@@ -12,5 +12,8 @@ int main() {
     printf("Test 브랜치\n");
   }
 
+  printf("Master branch\n");
+  printf("This is Master\n");
+
   return 0;
 }
